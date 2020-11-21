@@ -32,3 +32,5 @@ The process I followed to implement the application was:
 
 
 That's it! 
+
+![text image](https://user-images.githubusercontent.com/66972298/99882896-53bcd700-2c2c-11eb-8f40-c95f64e9c86b.png)
